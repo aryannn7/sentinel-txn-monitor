@@ -1,5 +1,3 @@
-# Sentinel Transaction Monitor
-
 # Sentinel: Transaction Monitoring & Fraud Detection Pipeline
 
 A three-layer fraud detection system built on 6.36 million synthetic banking
