@@ -25,3 +25,4 @@ if __name__ == "__main__":
     print(df.head())
     print(f"\nColumns: {list(df.columns)}")
     print(f"Rows loaded: {len(df)}")
+    
