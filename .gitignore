@@ -219,3 +219,6 @@ __marimo__/
 
 data/*.duckdbscored_transactions.parquet
 *.parquet
+
+data/
+*.duckdb
