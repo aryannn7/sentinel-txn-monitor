@@ -61,4 +61,3 @@ if __name__ == "__main__":
     print(flagged.sort_values("amount", ascending=False)[
         ["nameOrig", "type", "amount", "isFraud"]
     ].head(10))
-
