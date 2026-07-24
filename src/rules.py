@@ -62,5 +62,3 @@ if __name__ == "__main__":
         ["nameOrig", "type", "amount", "isFraud"]
     ].head(10))
 
-
-    
