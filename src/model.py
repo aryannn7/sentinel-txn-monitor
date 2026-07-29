@@ -122,3 +122,4 @@ if __name__ == "__main__":
     df.to_parquet(Path(__file__).parent.parent / "scored_transactions.parquet")
     print("\nSaved scored transactions to scored_transactions.parquet")
 #work
+
